@@ -4,5 +4,7 @@
  * Time: 23:38
  */
 object Hello {
-
+  def main(args: Array[String]) {
+    println("hello world")
+  }
 }
